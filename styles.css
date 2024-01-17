@@ -30,6 +30,7 @@ h1 {
 }
 
 h2 {
+    text-align: center;
     font-size: 1.5rem;
     margin-bottom: 20px; 
 }
@@ -69,11 +70,6 @@ h2 {
   border: 3px solid var(--green);
   font-size: 2rem;
   text-align: center;
-}
-
-#animation-container {
-  margin: auto;
-  max-width: 300px;
 }
 
 @media screen and (min-width: 500px) {
